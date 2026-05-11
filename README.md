@@ -1,16 +1,16 @@
 # AI Connect Four Project 🎮
 
 ## Team
+- Sara Sawi
 - Shahd Alsahar
 - Salma Islam
-- Sara Sawi
 - Rawda Ali
 - Sadeem Mohsen
-- Sama Ali
 - Amna Metwaly
+- Sama Ali
+- Youssef Badr
 - Amr Khaled
 - Mohamed Hussein
-- Youssef Badr
 - <img width="1328" height="1600" alt="WhatsApp Image 2026-05-11 at 2 08 51 AM" src="https://github.com/user-attachments/assets/87dc27cc-8add-46e5-8246-30b22c7cfe3b" />
 
   
